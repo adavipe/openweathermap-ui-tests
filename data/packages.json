@@ -4,13 +4,13 @@
     "name" : "tests.login_test",
     "children" : [ {
       "name" : "Login with valid data",
-      "uid" : "8af6e07b2d17176e",
+      "uid" : "c20ec1fd9792939f",
       "parentUid" : "fa8380230272a9bb1a6d6e9ad8189b2e",
       "status" : "passed",
       "time" : {
-        "start" : 1712342674027,
-        "stop" : 1712342676773,
-        "duration" : 2746
+        "start" : 1712345178417,
+        "stop" : 1712345180361,
+        "duration" : 1944
       },
       "flaky" : false,
       "newFailed" : false,
