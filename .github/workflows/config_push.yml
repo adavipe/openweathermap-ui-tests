@@ -1,6 +1,6 @@
-name: UI Tests
+name: ui_tests_push
 
-on: [push]
+on: push
 
 jobs:
   ui-tests:
