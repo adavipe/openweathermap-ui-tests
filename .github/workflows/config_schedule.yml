@@ -1,6 +1,8 @@
-name: UI Tests
+name: UI Tests_scheduled
 
-on: push
+on:
+  schedule:
+    - cron: "15 9 * * *"
 
 jobs:
   ui-tests:
