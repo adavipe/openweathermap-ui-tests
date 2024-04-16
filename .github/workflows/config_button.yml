@@ -1,4 +1,4 @@
-name: UI Tests
+name: ui-tests-button
 
 on:
   workflow_dispatch:

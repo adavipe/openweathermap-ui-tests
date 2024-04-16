@@ -1,4 +1,4 @@
-name: UI Tests_scheduled
+name: ui-tests-schedule
 
 on:
   schedule:
