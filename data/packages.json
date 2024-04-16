@@ -1,22 +1,5 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "children" : [ {
-    "name" : "tests.login_test",
-    "children" : [ {
-      "name" : "Login with valid data",
-      "uid" : "c20ec1fd9792939f",
-      "parentUid" : "fa8380230272a9bb1a6d6e9ad8189b2e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1712345178417,
-        "stop" : 1712345180361,
-        "duration" : 1944
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "tests.login_test"
-  } ],
+  "children" : [ ],
   "name" : "packages"
 }
