@@ -2,7 +2,7 @@ name: ui-tests-schedule
 
 on:
   schedule:
-    - cron: "15 9 * * *"
+    - cron: "15 9 * * 1/2"
 
 jobs:
   ui-tests:
