@@ -1,5 +1,22 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Login Functionality",
+    "children" : [ {
+      "name" : "Login with invalid data",
+      "uid" : "818c15fc1d3bf0cf",
+      "parentUid" : "cfe439a8cb5b4e3afb016ca4dfc57392",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714170010859,
+        "stop" : 1714170013015,
+        "duration" : 2156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cfe439a8cb5b4e3afb016ca4dfc57392"
+  } ],
   "name" : "behaviors"
 }

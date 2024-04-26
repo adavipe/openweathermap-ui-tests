@@ -1,5 +1,30 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "login_test",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "Login with invalid data",
+          "uid" : "818c15fc1d3bf0cf",
+          "parentUid" : "abaa6657b84b5ae6bdae28654e3ff7ec",
+          "status" : "passed",
+          "time" : {
+            "start" : 1714170010859,
+            "stop" : 1714170013015,
+            "duration" : 2156
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "abaa6657b84b5ae6bdae28654e3ff7ec"
+      } ],
+      "uid" : "3aa00c4711dc1e80a5e4ee9c7c68abf3"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
   "name" : "suites"
 }

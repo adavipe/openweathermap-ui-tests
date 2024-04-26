@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "818c15fc1d3bf0cf",
+  "name" : "Login with invalid data",
+  "time" : {
+    "start" : 1714170010859,
+    "stop" : 1714170013015,
+    "duration" : 2156
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]
