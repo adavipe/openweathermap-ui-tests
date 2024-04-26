@@ -8,13 +8,13 @@
         "name" : "TestLogin",
         "children" : [ {
           "name" : "Login with invalid data",
-          "uid" : "213d07bf2e13589",
+          "uid" : "42b164dd9f97929b",
           "parentUid" : "abaa6657b84b5ae6bdae28654e3ff7ec",
           "status" : "passed",
           "time" : {
-            "start" : 1714170131671,
-            "stop" : 1714170134202,
-            "duration" : 2531
+            "start" : 1714170210522,
+            "stop" : 1714170212718,
+            "duration" : 2196
           },
           "flaky" : false,
           "newFailed" : false,
