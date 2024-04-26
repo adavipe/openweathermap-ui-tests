@@ -4,13 +4,13 @@
     "name" : "tests.login_test",
     "children" : [ {
       "name" : "Login with invalid data",
-      "uid" : "eabb7f5f08b15364",
+      "uid" : "213d07bf2e13589",
       "parentUid" : "fa8380230272a9bb1a6d6e9ad8189b2e",
       "status" : "passed",
       "time" : {
-        "start" : 1714170129685,
-        "stop" : 1714170132539,
-        "duration" : 2854
+        "start" : 1714170131671,
+        "stop" : 1714170134202,
+        "duration" : 2531
       },
       "flaky" : false,
       "newFailed" : false,
