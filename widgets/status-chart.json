@@ -1,11 +1,1 @@
-[ {
-  "uid" : "2bb6b7dc8344ce0",
-  "name" : "Login with valid data",
-  "time" : {
-    "start" : 1714163614799,
-    "stop" : 1714163617388,
-    "duration" : 2589
-  },
-  "status" : "passed",
-  "severity" : "critical"
-} ]
+[ ]
