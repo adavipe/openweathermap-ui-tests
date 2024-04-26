@@ -13,8 +13,6 @@ services:
     environment:
       - EMAIL=${EMAIL}
       - PASSWORD=${PASSWORD}
-    ports:
-      - "5000:5000"
 
   regression:
     image: python:3.11-alpine
@@ -28,8 +26,3 @@ services:
     environment:
       - EMAIL=${EMAIL}
       - PASSWORD=${PASSWORD}
-    ports:
-      - "5001:5001"
-
-
-

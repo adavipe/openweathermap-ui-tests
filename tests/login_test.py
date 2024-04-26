@@ -20,4 +20,3 @@ class TestLogin:
         # здесь будет assert на появление алерта (div[class="panel-body"] с текстом "Invalid Email or password.")
         # здесь будет assert на то, что url остался тот же
         login_page.make_screenshot("Invalid Email or password")
-
