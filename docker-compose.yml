@@ -1,6 +1,19 @@
 version: '3.11'
 
 services:
+  smoke:
+    image: python:3.11-alpine
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/usr/workspace
+    command: /bin/sh -c "ls -la && pytest -sv -m smoke --alluredir=allure-results"
+    working_dir: /usr/workspace
+    environment:
+      - EMAIL=${EMAIL}
+      - PASSWORD=${PASSWORD}
+
   regression:
     image: python:3.11-alpine
     build:
@@ -13,6 +26,3 @@ services:
     environment:
       - EMAIL=${EMAIL}
       - PASSWORD=${PASSWORD}
-
-
-
