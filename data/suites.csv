@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Apr 29 09:24:30 GMT 2024","Mon Apr 29 09:24:33 GMT 2024","2884","tests","login_test","TestLogin","","","Login with invalid data",""
+"passed","Wed May 01 09:24:28 GMT 2024","Wed May 01 09:24:31 GMT 2024","2444","tests","login_test","TestLogin","","","Login with invalid data",""
