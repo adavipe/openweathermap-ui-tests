@@ -4,13 +4,13 @@
     "name" : "Login Functionality",
     "children" : [ {
       "name" : "Login with invalid data",
-      "uid" : "fa7be7743e254c40",
+      "uid" : "4f636e88d51e812",
       "parentUid" : "cfe439a8cb5b4e3afb016ca4dfc57392",
       "status" : "passed",
       "time" : {
-        "start" : 1714728221996,
-        "stop" : 1714728228895,
-        "duration" : 6899
+        "start" : 1714987464453,
+        "stop" : 1714987466694,
+        "duration" : 2241
       },
       "flaky" : false,
       "newFailed" : false,
