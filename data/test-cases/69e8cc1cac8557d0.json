@@ -1,12 +1,12 @@
 {
-  "uid" : "dff64a65f575abce",
+  "uid" : "69e8cc1cac8557d0",
   "name" : "Login with invalid data",
   "fullName" : "tests.login_test.TestLogin#test_login_with_invalid_data",
   "historyId" : "9bc66c43b271faa3c27f9ce39f63480c",
   "time" : {
-    "start" : 1717406713965,
-    "stop" : 1717406715974,
-    "duration" : 2009
+    "start" : 1717579656458,
+    "stop" : 1717579658440,
+    "duration" : 1982
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "driver",
     "time" : {
-      "start" : 1717406713489,
-      "stop" : 1717406713964,
-      "duration" : 475
+      "start" : 1717579656015,
+      "stop" : 1717579656457,
+      "duration" : 442
     },
     "status" : "passed",
     "steps" : [ ],
@@ -32,9 +32,9 @@
     "steps" : [ {
       "name" : "Open https://home.openweathermap.org/users/sign_in page",
       "time" : {
-        "start" : 1717406713965,
-        "stop" : 1717406715156,
-        "duration" : 1191
+        "start" : 1717579656458,
+        "stop" : 1717579657661,
+        "duration" : 1203
       },
       "status" : "passed",
       "steps" : [ ],
@@ -47,9 +47,9 @@
     }, {
       "name" : "Enter login",
       "time" : {
-        "start" : 1717406715157,
-        "stop" : 1717406715270,
-        "duration" : 113
+        "start" : 1717579657661,
+        "stop" : 1717579657762,
+        "duration" : 101
       },
       "status" : "passed",
       "steps" : [ ],
@@ -65,8 +65,8 @@
     }, {
       "name" : "Enter password",
       "time" : {
-        "start" : 1717406715270,
-        "stop" : 1717406715357,
+        "start" : 1717579657762,
+        "stop" : 1717579657849,
         "duration" : 87
       },
       "status" : "passed",
@@ -83,9 +83,9 @@
     }, {
       "name" : "Click submit button",
       "time" : {
-        "start" : 1717406715357,
-        "stop" : 1717406715794,
-        "duration" : 437
+        "start" : 1717579657849,
+        "stop" : 1717579658276,
+        "duration" : 427
       },
       "status" : "passed",
       "steps" : [ ],
@@ -97,9 +97,9 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "732221977666f243",
+      "uid" : "70c323b735dd78cc",
       "name" : "Invalid Email or password",
-      "source" : "732221977666f243.png",
+      "source" : "70c323b735dd78cc.png",
       "type" : "image/png",
       "size" : 88045
     } ],
@@ -112,9 +112,9 @@
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1717406715974,
-      "stop" : 1717406716035,
-      "duration" : 61
+      "start" : 1717579658440,
+      "stop" : 1717579658500,
+      "duration" : 60
     },
     "status" : "passed",
     "steps" : [ ],
@@ -145,7 +145,7 @@
     "value" : "TestLogin"
   }, {
     "name" : "host",
-    "value" : "d3fd24b0a604"
+    "value" : "6e61aa3d4799"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -164,22 +164,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "critical",
-    "retries" : [ {
-      "uid" : "7bcea3f6dcbed856",
-      "status" : "passed",
-      "time" : {
-        "start" : 1717406713935,
-        "stop" : 1717406715933,
-        "duration" : 1998
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ "smoke" ]
   },
-  "source" : "dff64a65f575abce.json",
+  "source" : "69e8cc1cac8557d0.json",
   "parameterValues" : [ ]
 }
