@@ -1,47 +1,47 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
-    "name" : "5edf4294cc03",
+    "name" : "f0e6380ee7b3",
     "children" : [ {
       "name" : "1-MainThread",
       "children" : [ {
         "name" : "Login with invalid data",
-        "uid" : "d7a380dc79a7c3a2",
-        "parentUid" : "0d30cd35157e4cb9dd9f5c8b9e052494",
+        "uid" : "dd6e79bdaa6aa4c4",
+        "parentUid" : "8765c76d8d2c7e49fed9dc06c5e6e20e",
         "status" : "passed",
         "time" : {
-          "start" : 1718357125975,
-          "stop" : 1718357128121,
-          "duration" : 2146
+          "start" : 1718616365364,
+          "stop" : 1718616367426,
+          "duration" : 2062
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0d30cd35157e4cb9dd9f5c8b9e052494"
+      "uid" : "8765c76d8d2c7e49fed9dc06c5e6e20e"
     } ],
-    "uid" : "1253179f4b1cb4ccded251cdd3493ccb"
+    "uid" : "1493d0e0e0704976ce013d007581e0e4"
   }, {
-    "name" : "1f68e05aaf60",
+    "name" : "ae6a2691c9a8",
     "children" : [ {
       "name" : "1-MainThread",
       "children" : [ {
         "name" : "Login with invalid data",
-        "uid" : "5ecbf73175e6bd58",
-        "parentUid" : "05bbfaee2281e03c2b1037b8cf63893e",
+        "uid" : "f336955d5f749eea",
+        "parentUid" : "c548da6ea596da57913915d96c1fc869",
         "status" : "passed",
         "time" : {
-          "start" : 1718357125965,
-          "stop" : 1718357128215,
-          "duration" : 2250
+          "start" : 1718616365363,
+          "stop" : 1718616367387,
+          "duration" : 2024
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "05bbfaee2281e03c2b1037b8cf63893e"
+      "uid" : "c548da6ea596da57913915d96c1fc869"
     } ],
-    "uid" : "1122375202d5e30a8fd43ce7bf1ad2d3"
+    "uid" : "196eae9ae6cb121eb07f5e150e1f37dd"
   } ],
   "name" : "timeline"
 }
