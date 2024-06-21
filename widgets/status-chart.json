@@ -1,10 +1,10 @@
 [ {
-  "uid" : "2645e8ccb1594ba7",
+  "uid" : "701ab65bbe8f2ea0",
   "name" : "Login with invalid data",
   "time" : {
-    "start" : 1718789310362,
-    "stop" : 1718789313225,
-    "duration" : 2863
+    "start" : 1718961889161,
+    "stop" : 1718961891227,
+    "duration" : 2066
   },
   "status" : "passed",
   "severity" : "critical"
